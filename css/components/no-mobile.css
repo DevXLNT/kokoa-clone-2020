@@ -17,7 +17,7 @@
     }
 }
 
-@media (orientation: landscape) {
+@media screen and (orientation: landscape) {
     #no-mobile {
         position: absolute;
         z-index: 99;
